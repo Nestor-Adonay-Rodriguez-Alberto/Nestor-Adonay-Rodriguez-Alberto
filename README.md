@@ -17,7 +17,6 @@
 <a href="https://github.com/EPPlusSoftware/EPPlus">
   <img src="https://img.shields.io/badge/EPPlus-217346.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="EPPlus" />
 </a>
-
 [![Google Charts](https://img.shields.io/badge/Google%20Charts-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/chart)
 [![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
