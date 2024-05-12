@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-adonay-rodriguez-alberto-14304b2aa/)
 
-👩🏻‍💻 Software development technician sharing about my journey and learnings in tech. 
+👩🏻‍💻 Software development technician sharing about my journey and learnings in tech.                                          
 👩🏻‍🎓 I studied Software Development Engineering Technician at the Specialized Franciscan Higher School/AGAPE.
 
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
