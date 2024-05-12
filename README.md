@@ -20,6 +20,6 @@
 [![Google Charts](https://img.shields.io/badge/Google%20Charts-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/chart)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)](https://dev.azure.com/nestoradonayrodriguezalberto/)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 
