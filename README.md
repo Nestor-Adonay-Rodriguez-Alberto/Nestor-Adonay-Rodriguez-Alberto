@@ -13,7 +13,7 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
-[![Rotativa](https://img.shields.io/badge/Rotativa-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/webgio/Rotativa.AspNetCore)
+[![Rotativa](https://img.shields.io/badge/Rotativa-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://www.rafaelacosta.net/Blog/2020/1/13/c%C3%B3mo-crear-un-pdf-a-partir-de-una-vista-en-aspnet-mvc)
 <a href="https://github.com/EPPlusSoftware/EPPlus">
   <img src="https://img.shields.io/badge/EPPlus-217346.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="EPPlus" />
 </a>
