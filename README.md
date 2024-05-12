@@ -22,6 +22,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-## Las estadisticas del repositorio
+# 💻 Estadisticas
 ![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nestor-Adonay-Rodriguez-Alberto&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nestor-Adonay-Rodriguez-Alberto&layout=compact&theme=dark)
 
