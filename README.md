@@ -24,5 +24,5 @@
 
 
 # 📊 Repository Statistics
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nestor-Adonay-Rodriguez-Alberto&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nestor-Adonay-Rodriguez-Alberto&layout=compact&theme=dark)
+![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nestor-Adonay-Rodriguez-Alberto&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nestor-Adonay-Rodriguez-Alberto&layout=compact&theme=dark) 
 
