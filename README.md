@@ -16,6 +16,9 @@
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
 [![Rotativa](https://img.shields.io/badge/Rotativa-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/webgio/Rotativa.AspNetCore)
-[![EPPlus](https://img.shields.io/badge/EPPlus-02569B.svg?style=for-the-badge&logo=.NET&logoColor=white)](https://github.com/EPPlusSoftware/EPPlus)
+[![EPPlus](https://img.shields.io/badge/EPPlus-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/EPPlusSoftware/EPPlus)
+<a href="https://github.com/EPPlusSoftware/EPPlus">
+  <img src="https://img.shields.io/badge/EPPlus-217346.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="EPPlus" />
+</a>
 [![Google Charts](https://img.shields.io/badge/Google%20Charts-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/chart)
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
