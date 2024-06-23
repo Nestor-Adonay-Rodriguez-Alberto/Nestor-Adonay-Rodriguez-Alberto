@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-adonay-rodriguez-alberto/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nestor.Adonay.Rodriguez.Alberto@gmail.com)
 
-👩🏻‍💻 Software development technician sharing about my journey and learnings in tech.                                          
+👩🏻‍💻 Software development technician sharing about my journey and learnings in Programming.                                          
 👩🏻‍🎓 I am studying Software Development Engineering Technician at the Specialized Franciscan Higher School/AGAPE in El Salvador.                                      
 💭 I am currently looking for a software development company to do an internship.                                            
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Technological Skills
