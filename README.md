@@ -7,7 +7,7 @@
 
 👩🏻‍💻 Software development technician sharing about my journey and learnings in Programming.                                          
 👩🏻‍🎓 I am studying Software Development Engineering Technician at the Specialized Franciscan Higher School/AGAPE in El Salvador.                                      
-💭 I am currently looking for a software development company to do an internship.                                            
+💭 I am currently doing my professional internship at Aracari Studios, a software development company                                            
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Technological Skills
 [![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 ![MS-SQL](https://img.shields.io/badge/MS--SQL-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
