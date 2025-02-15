@@ -4,12 +4,13 @@
 
 <h3 align="center">A passionate developer from El Salvador that love create useful solution using software as a tool to achieve better resolves.</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-adonay-rodriguez-alberto/)
-[![Gmail](https://img.shields.io/badge/Gmail-FF0000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nestor.Adonay.Rodriguez.Alberto@gmail.com)
-
 - 👩🏻‍💻 Software development technician sharing about my journey and learnings in Programming.                                          
 - 👩🏻‍🎓 Graduated from the Technical Degree in Engineering in Software Development at the Specialized Franciscan Higher School/AGAPE in El Salvador.                                      
 - 💭 I currently work as a Full Stack Developer at Aracari Studios, a software development company.                                            
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-adonay-rodriguez-alberto/)
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nestor.Adonay.Rodriguez.Alberto@gmail.com)
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Technological Skills
 [![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 ![MS-SQL](https://img.shields.io/badge/MS--SQL-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
